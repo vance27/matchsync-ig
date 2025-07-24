@@ -20,3 +20,5 @@
 **/ig-history
 
 **/web-root/ig-build-zips/*.zip
+
+node_modules
